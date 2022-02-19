@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Florent
+
+- I'm currently working on the next episode of Dentibiotic.fr
 
 <!--
 **Florent-Dentibiotic/Florent-Dentibiotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
