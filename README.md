@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Florent
 
-- 🔭 I’m currently working on [https://adventofcode.com/](AOC 2023)
+- 🔭 I’m currently playing to [AOC 2023](https://adventofcode.com/)
 
 <!--
 **Florent-Dentibiotic/Florent-Dentibiotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
