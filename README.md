@@ -1,6 +1,13 @@
 ### Hi there 👋 I'm Florent
 
+
 - 🔭 I’m currently playing to [AOC 2023](https://adventofcode.com/)
+
+  
+- You can see my different work there :
+- [Dentibiotic.fr](https://dentibiotic.fr/)
+- [Dentromatic.fr](https://dentromatic.fr/)
+- [Dentibiotest.fr](https://dentibiotest.fr/)
 
 <!--
 **Florent-Dentibiotic/Florent-Dentibiotic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
